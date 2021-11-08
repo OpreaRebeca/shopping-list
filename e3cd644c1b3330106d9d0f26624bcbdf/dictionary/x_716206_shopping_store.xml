@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Store" max_length="40" name="x_716206_shopping_store" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Store name" max_length="40" name="store_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Target" sequence="0" value="target"/>
+                <element inactive_on_update="false" label="Kaufland" sequence="1" value="kaufland"/>
+                <element inactive_on_update="false" label="Lidl" sequence="2" value="lidl"/>
+                <element inactive_on_update="false" label="Mega" sequence="3" value="mega"/>
+                <element inactive_on_update="false" label="Tesco" sequence="4" value="tesco"/>
+            </choice>
+        </element>
+    </element>
+</database>

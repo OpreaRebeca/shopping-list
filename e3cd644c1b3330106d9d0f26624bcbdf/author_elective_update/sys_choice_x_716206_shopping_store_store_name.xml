@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="store_name" table="x_716206_shopping_store" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>store_name</element>
+            <name>x_716206_shopping_store</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2021-11-08 13:07:31</sys_created_on>
+            <sys_id>7862fc401b7330106d9d0f26624bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>store_name</sys_name>
+            <sys_package display_value="Shopping list" source="x_716206_shopping">e3cd644c1b3330106d9d0f26624bcbdf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping list">e3cd644c1b3330106d9d0f26624bcbdf</sys_scope>
+            <sys_update_name>sys_choice_x_716206_shopping_store_store_name</sys_update_name>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 13:07:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Target</label>
+            <language>en</language>
+            <name>x_716206_shopping_store</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2021-11-08 13:07:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc62fc401b7330106d9d0f26624bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 13:07:31</sys_updated_on>
+            <value>target</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kaufland</label>
+            <language>en</language>
+            <name>x_716206_shopping_store</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2021-11-08 13:07:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3062fc401b7330106d9d0f26624bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 13:07:31</sys_updated_on>
+            <value>kaufland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lidl</label>
+            <language>en</language>
+            <name>x_716206_shopping_store</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2021-11-08 13:07:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b062fc401b7330106d9d0f26624bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 13:07:31</sys_updated_on>
+            <value>lidl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mega</label>
+            <language>en</language>
+            <name>x_716206_shopping_store</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2021-11-08 13:07:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3462fc401b7330106d9d0f26624bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 13:07:31</sys_updated_on>
+            <value>mega</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tesco</label>
+            <language>en</language>
+            <name>x_716206_shopping_store</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2021-11-08 13:07:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b462fc401b7330106d9d0f26624bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 13:07:31</sys_updated_on>
+            <value>tesco</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
